@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "changelog": "Primeira versão do launcher.",
+  "downloads": {
+    "windows": { "url": "https://example.com/eldervale/downloads/EldervaleLauncher-1.0.0.exe", "sha256": "" },
+    "linux":   { "url": "https://example.com/eldervale/downloads/EldervaleLauncher-1.0.0-linux", "sha256": "" },
+    "macos":   { "url": "https://example.com/eldervale/downloads/EldervaleLauncher-1.0.0-macos", "sha256": "" }
+  }
+}
