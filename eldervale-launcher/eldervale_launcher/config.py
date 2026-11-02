@@ -9,7 +9,7 @@ APP_NAME = "Eldervale"
 LAUNCHER_VERSION = "1.0.0"
 
 # >>> Troque pela URL onde você hospeda os arquivos do jogo <<<
-BASE_URL = os.environ.get("ELDERVALE_BASE_URL", "http://127.0.0.1:8000").rstrip("/")
+BASE_URL = os.environ.get("https://github.com/HuggyHaggy/eldervale", "http://127.0.0.1:8000").rstrip("/")
 MANIFEST_URL = f"{BASE_URL}/version_manifest.json"   # lista de todas as versões do jogo
 LAUNCHER_URL = f"{BASE_URL}/launcher.json"           # versão mais recente do próprio launcher
 NEWS_URL = f"{BASE_URL}/news.json"                   # notícias exibidas na aba Novidades
