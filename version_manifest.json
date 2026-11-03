@@ -1,8 +1,8 @@
 {
-  "latest": { "release": "1.0.0" },
+  "latest": { "release": "1.0.2" },
   "versions": [
     {
-      "id": "1.0.0",
+      "id": "1.0.2",
       "type": "release",
       "releaseTime": "2026-11-02T20:00:00+00:00",
       "changelog": "- Lançamento inicial",
