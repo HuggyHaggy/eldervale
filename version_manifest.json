@@ -8,7 +8,7 @@
       "changelog": "- Lançamento inicial",
       "downloads": {
         "windows": {
-          "url": "https://github.com/HuggyHaggy/eldervale/releases/download/v1.0.3/Eldervale.zip",
+          "url": "https://github.com/HuggyHaggy/eldervale/releases/download/v1.0.3/ElderVale.zip",
           "sha256": "",
           "size": 0,
           "executable": "main.exe"
