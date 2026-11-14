@@ -2,10 +2,10 @@
   "latest": { "release": "1.0.1" },
   "versions": [
     {
-      "id": "26y11-s-f",
+      "id": "26y11-f1",
       "type": "snapshot",
       "releaseTime": "2026-11-02T20:00:00+00:00",
-      "changelog": "- Lançamento inicial",
+      "changelog": "- Correções do sistema do multiplayer",
       "downloads": {
         "windows": {
           "url": "https://github.com/HuggyHaggy/eldervale/releases/download/26y11-s-f/ElderVale.zip",
